@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://i.ibb.co/c8XZGfY/exi-bird-logo-max-heigth-NOBG.png" alt="exi-bird-logo-max-heigth-NOBG" border="0">
+  <img src="https://i.ibb.co/c8XZGfY/exi-bird-logo-max-heigth-NOBG.png" alt="exi-bird-logo-max-heigth-NOBG" border="0" style="width: 40%; heigth: 40%">
 </p>
 
 La nostra Vision è un mondo dove la semplicità regna sovrana grazie alla tecnologia. La nostra Mission è riuscire a rendere Digitale ogni forma di Business e dedichiamo anima e corpo nella realizzazione della nostra idea.
